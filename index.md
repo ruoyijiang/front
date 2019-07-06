@@ -21,7 +21,7 @@ Click here for tutorials from www.immcantation.org
 
 <!-- <img width="200" alt="portfolio_view" src="/immcantation.png"> -->
 
-<img src="/immcantation.png" width="100" height="100">
+<img src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png" width="100" height="100">
 
 <!-- ![](/immcantation.png | width=20) -->
 
