@@ -21,7 +21,9 @@ Click here for tutorials from www.immcantation.org
 
 <!-- <img width="200" alt="portfolio_view" src="/immcantation.png"> -->
 
-![](/immcantation.png | width=20)
+<img src="/immcantation.png" width="100" height="100">
+
+<!-- ![](/immcantation.png | width=20) -->
 
 <!-- <img src="/immcantation.png" alt="Kitten" title="A cute kitten" width="150" height="100" /> -->
 <!-- </a> -->
