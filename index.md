@@ -13,4 +13,4 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 * * *
 
 <a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials">
-![ImmC]https://immcantation.readthedocs.io/en/version-2.7.0/_static/immcantation.png</a>
+[![ImmC](https://immcantation.readthedocs.io/en/version-2.7.0/_static/immcantation.png)]</a>
