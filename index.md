@@ -12,9 +12,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-### Tutorials
+### Tutorials 
 
-Click here for tutorials
+Click here for tutorials from www.immcantation.org
 
 <a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials">
-![ImmC](https://immcantation.readthedocs.io/en/version-2.7.0/_static/immcantation.png)</a>
+<img border="0" alt="ImmC" src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png "width="20" height="20" ></a>
