@@ -19,5 +19,9 @@ Click here for tutorials from www.immcantation.org
 <!-- <a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials"> -->
 <!-- <img src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png" width="20" height="20" />  -->
 
-![Kitten](https://immcantation.readthedocs.io/en/latest/_static/immcantation.png =20x20)
+<!-- <img width="200" alt="portfolio_view" src="/immcantation.png"> -->
+
+![](/immcantation.png | width=20)
+
+<!-- <img src="/immcantation.png" alt="Kitten" title="A cute kitten" width="150" height="100" /> -->
 <!-- </a> -->
