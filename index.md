@@ -12,16 +12,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-### Tutorials 
+### Tutorials
 
 Click here for tutorials from www.immcantation.org
 
-<!-- <a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials"> -->
-<!-- <img src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png" width="20" height="20" />  -->
-
-<!-- <img width="200" alt="portfolio_view" src="/immcantation.png"> -->
-
+<a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials">
 <img src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png" width="100" height="100">
+<img width="200" alt="portfolio_view" src="/immcantation.png">
+
+
 
 <!-- ![](/immcantation.png | width=20) -->
 
