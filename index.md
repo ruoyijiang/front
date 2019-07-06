@@ -17,5 +17,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 Click here for tutorials from www.immcantation.org
 
 <!-- <a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials"> -->
-<img src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png "width="20" height="20" /> 
+<!-- <img src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png" width="20" height="20" />  -->
+
+![Kitten](https://immcantation.readthedocs.io/en/latest/_static/immcantation.png =20x20)
 <!-- </a> -->
