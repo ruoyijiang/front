@@ -9,6 +9,7 @@ Ruoyi Jiang<sup>1</sup>, Miriam L. Fichtner<sup>1,2</sup>, Panos Stathopoulos<su
 > 2. Department of Neurology, Yale School of Medicine, New Haven, CT
 > 3. Interdepartmental Program in Computational Biology & Bioinformatics, Yale University. New Haven, CT
 > 4. Department of Pathology, Yale School of Medicine, New Haven, CT
+> 
 > *co-senior authors
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
