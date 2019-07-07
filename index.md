@@ -4,7 +4,8 @@ layout: default
 
 # Single-cell immune repertoire tracing identifies rituximab refractory B cells that emerge during relapse
 
-Ruoyi Jiang<sup>1</sup>, Miriam L. Fichtner<sup>1,2</sup>, Panos Stathopoulos<sup>1,2</sup>, Richard J. Nowak<sup>2</sup>, Steven H. Kleinstein<sup>1,3,4,*</sup>, Kevin C. O’Connor<sup>1,2,*</sup>
+Ruoyi Jiang<sup>1</sup>, Miriam L. Fichtner<sup>1,2</sup>, Panos Stathopoulos<sup>1,2</sup>, Richard J. Nowak<sup>2</sup>, Steven H. Kleinstein<sup>1,3,4,*</sup> Kevin C. O'Connor
+<sup>1,2,*</sup>
 > 1. Department of Immunobiology, Yale School of Medicine, New Haven, CT
 > 2. Department of Neurology, Yale School of Medicine, New Haven, CT
 > 3. Interdepartmental Program in Computational Biology & Bioinformatics, Yale University. New Haven, CT
