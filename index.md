@@ -17,7 +17,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Tutorials
 
-Click here for tutorials from <a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials"> www.immcantation.org </a>.
+Click here for tutorials from <a href="immcantation.readthedocs.io" rel = "Tutorials"> www.immcantation.org </a>.
 
 <a href="https://changeo.readthedocs.io/en/latest/examples/10x.html" rel = "Tutorials">
 <img src="https://immcantation.readthedocs.io/en/latest/_static/immcantation.png" width="100" height="100"></a>
